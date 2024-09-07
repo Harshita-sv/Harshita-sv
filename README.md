@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshita-sv
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning software engineering and java
+- 🌱 I’m currently learning software engineering, web developement andjava
 - 😄 Pronouns: She/Her
 
 
