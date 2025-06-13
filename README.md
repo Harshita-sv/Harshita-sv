@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Harshita-sv
-- 👀 I’m interested in coding and music
-- 🌱 I’m currently learning software engineering, web developement andjava
+- 👋 Hi, I’m @Harshita
+- 👀 I’m interested in the fied of Data Science and AI
+- 🌱 I’m building my core knowledge in Python, Machine Learning, Sql, Power BI, Tableau and Front-end related topics.
 - 😄 Pronouns: She/Her
 
-
-<!---
-Harshita-sv/Harshita-sv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
